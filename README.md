@@ -1,0 +1,2 @@
+# Component
+React new component
