@@ -1,2 +1,2 @@
 # Component
-React new component
+React
